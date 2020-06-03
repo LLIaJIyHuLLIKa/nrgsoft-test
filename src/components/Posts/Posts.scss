@@ -1,0 +1,33 @@
+.posts {
+  position: absolute;
+  top: 50%;
+  padding-left: 10%;
+
+  &__item {
+    i {
+      margin-right: 10px;
+      color: #fff;
+      cursor: pointer;
+
+      &:nth-child(1) {
+        transition: 0.3s all;
+
+        &.red-heart {
+          color: #f00;
+        }
+        &:hover {
+          color: #f00;
+        }
+      }
+    }
+
+    a {
+      color: #949a9d;
+      transition: 0.3s all;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+}

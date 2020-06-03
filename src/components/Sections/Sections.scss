@@ -1,0 +1,32 @@
+.sections {
+  position: absolute;
+  top: 15%;
+  width: 100%;
+
+  &__item {
+    width: 100px;
+    padding: 12px 0;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #8d9a9e;
+    animation: 5s moveBlocks infinite alternate;
+    overflow: hidden;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #e5ebed;
+        animation-play-state: paused;
+    }
+  }
+}
+
+@keyframes moveBlocks {
+    from {
+        margin-left: 0;
+    }
+
+    to {
+        margin-left: 90%;
+    }
+}
