@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nrgsoft-test/static/css/main.ded744d2.chunk.css",
+    "main.js": "/nrgsoft-test/static/js/main.75c30f23.chunk.js",
+    "main.js.map": "/nrgsoft-test/static/js/main.75c30f23.chunk.js.map",
+    "runtime-main.js": "/nrgsoft-test/static/js/runtime-main.9a47bde6.js",
+    "runtime-main.js.map": "/nrgsoft-test/static/js/runtime-main.9a47bde6.js.map",
+    "static/js/2.f1dbc609.chunk.js": "/nrgsoft-test/static/js/2.f1dbc609.chunk.js",
+    "static/js/2.f1dbc609.chunk.js.map": "/nrgsoft-test/static/js/2.f1dbc609.chunk.js.map",
+    "index.html": "/nrgsoft-test/index.html",
+    "precache-manifest.f16e7974b250e79bc84344b0a0995681.js": "/nrgsoft-test/precache-manifest.f16e7974b250e79bc84344b0a0995681.js",
+    "service-worker.js": "/nrgsoft-test/service-worker.js",
+    "static/css/main.ded744d2.chunk.css.map": "/nrgsoft-test/static/css/main.ded744d2.chunk.css.map",
+    "static/js/2.f1dbc609.chunk.js.LICENSE.txt": "/nrgsoft-test/static/js/2.f1dbc609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a47bde6.js",
+    "static/js/2.f1dbc609.chunk.js",
+    "static/css/main.ded744d2.chunk.css",
+    "static/js/main.75c30f23.chunk.js"
+  ]
+}
